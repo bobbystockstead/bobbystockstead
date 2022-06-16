@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobbystockstead
-- 👀 I’m interested in JVM languages and testing
+- 👀 I’m interested in JVM languages, testing, and music tech.
 - 🌱 I’m currently learning whatever surprises me
 - 💞️ I’m looking to collaborate on engineering tools
 
